@@ -12,6 +12,15 @@ Mobile app developer in Japan. Love Swift.
 - Clean code
 - Swift / Dart / C# / Ruby / Python / TypeScript
 - :cat2:
+
+### Links 🔗
+
+- https://twitter.com/tanakasan2525
+- https://speakerdeck.com/tattn
+- https://connpass.com/user/tattn/presentation/
+- https://qiita.com/tattn
+- https://zenn.dev/tattn
+
 <!--
 **tattn/tattn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

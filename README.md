@@ -1,6 +1,6 @@
 ### Me :cat:
 
-Mobile app developer in Japan. Love Swift.
+App developer in Japan. Love Swift.
 
 ### Skills⚡
 
@@ -15,11 +15,15 @@ Mobile app developer in Japan. Love Swift.
 
 ### Links 🔗
 
-- https://twitter.com/tanakasan2525
-- https://speakerdeck.com/tattn
-- https://connpass.com/user/tattn/presentation/
-- https://qiita.com/tattn
-- https://zenn.dev/tattn
+- en
+  - https://www.patreon.com/tattn
+- ja
+  - https://twitter.com/tanakasan2525
+  - https://speakerdeck.com/tattn
+  - https://connpass.com/user/tattn/presentation/
+  - https://qiita.com/tattn
+  - https://zenn.dev/tattn
+  - https://tattn.fanbox.cc/
 
 <!--
 **tattn/tattn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
